@@ -1,6 +1,6 @@
 # Multichannel QAOA Anomaly Detection
 
-This repository contains the code accompanying our work on multichannel anomaly detection based on a QAOA-driven optimization pipeline. The project explores a quantum-inspired formulation for identifying anomalous behaviours in multivariate or multi-channel time series through optimization and geometric covering strategies. :contentReference[oaicite:0]{index=0}
+This repository contains the code accompanying our work on multichannel anomaly detection based on a QAOA-driven optimization pipeline. The project explores a quantum-inspired formulation for identifying anomalous behaviours in multivariate or multi-channel time series through optimization and geometric covering strategies.
 
 ## Repository contents
 
@@ -13,4 +13,4 @@ The repository includes:
 
 ## Notes on data
 
-The datasets used in the study are not included in this repository for privacy and confidentiality reasons. The code and notebooks are provided to document the methodology and support reproducibility of the implementation. :contentReference[oaicite:2]{index=2}
+The datasets used in the study are not included in this repository for privacy and confidentiality reasons. The code and notebooks are provided to document the methodology and support reproducibility of the implementation.
